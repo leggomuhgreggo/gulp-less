@@ -1,0 +1,13 @@
+{
+	"ftpconf": {
+		"username": "un",
+		"password": "pw",
+		"testHost": "ip",
+		"devHost": "ip",
+		"port": "21",
+		"remoteFolder": "/"
+	},
+	"baseFolder": "../",
+	"testFolder": "test/",
+	"devFolder": "dev/"
+}
